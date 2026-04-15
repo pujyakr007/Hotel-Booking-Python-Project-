@@ -7,10 +7,10 @@ The goal of this project is to demonstrate how data analysis techniques can be a
 
 ## Questions(KPIs)
 ## 🧾 1. Cancellation Analysis
-What is the overall cancellation rate (%)?
-Which hotel type has higher cancellations (City vs Resort)?
-Which months have the highest cancellations?
-Which market segment contributes most to cancellations?
+-What is the overall cancellation rate (%)?
+-Which hotel type has higher cancellations (City vs Resort)?
+-Which months have the highest cancellations?
+-Which market segment contributes most to cancellations?
 ## 💰 2. Revenue & Pricing (ADR)
 What is the average ADR (Average Daily Rate)?
 How does ADR impact cancellations?
