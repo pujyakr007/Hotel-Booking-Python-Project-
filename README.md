@@ -6,51 +6,48 @@ This project focuses on analyzing hotel booking data to understand customer beha
 The goal of this project is to demonstrate how data analysis techniques can be applied to solve real-world business problems in the hospitality industry.
 
 ## Questions(KPIs)
-## 🧾 1. Cancellation Analysis
--What is the overall cancellation rate (%)?
+-Analyzed booking distribution across different hotel types
+-Calculated cancellation percentages
+-Compared booking trends between City and Resort hotels
+-Studied monthly booking and cancellation patterns
+-Analyzed ADR (Average Daily Rate) trends
+-Identified top countries contributing to bookings and cancellations
+-Explored market segment behavior
+## Dataset Description
 
--Which hotel type has higher cancellations (City vs Resort)?
+The dataset contains detailed information about hotel bookings, including:
 
--Which months have the highest cancellations?
+-Booking dates
+-Customer type and country
+-Hotel type (City Hotel / Resort Hotel)
+-Reservation status (Canceled / Not Canceled)
+-Average Daily Rate (ADR)
+-Number of guests (adults, children, babies)
+## Tools & Technologies Used
+-Python – Core programming language
+-Pandas – Data cleaning and manipulation
+-Matplotlib – Data visualization
+-Seaborn – Advanced visualization
+-Jupyter Notebook – Development environment
+## Data Cleaning & Preprocessing
+-Handled missing values by removing or updating columns
+-Dropped irrelevant columns such as company and agent
+-Converted date columns into proper datetime format
+-Removed outliers in the ADR column
+-Checked and ensured data consistency
+## Key Insights
+-High cancellation rates observed in certain segments
+-Pricing (ADR) significantly impacts booking cancellations
+-City Hotels and Resort Hotels show different booking behaviors
+-Seasonal trends affect booking volume
+-Certain customer segments contribute more to cancellations
+##Visualizations
 
--Which market segment contributes most to cancellations?
-## 💰 2. Revenue & Pricing (ADR)
--What is the average ADR (Average Daily Rate)?
+Used various charts and plots such as:
 
--How does ADR impact cancellations?
+-Bar charts
+-Count plots
+-Line graphs
+-Heatmaps
 
--Which hotel type generates higher ADR?
-
--Monthly trend of ADR over time
-## 🏨 3. Hotel Performance
--Which hotel type has more bookings?
-
--Which hotel type has better retention (lower cancellation)?
-
--Booking distribution between City Hotel vs Resort Hotel
-## 📅 4. Booking Trends
--Monthly booking trend analysis
-
--Peak season vs low season bookings
-
--Which month has highest number of bookings?
-## 🌍 5. Customer Analysis
--Top countries with highest bookings
-
--Top countries with highest cancellations
-
--Distribution of customers by market segment
-## 👨‍👩‍👧 6. Guest Analysis
--Average number of adults, children, babies per booking
-
--Which type of customers (family/couple) book more?
-## ⏳ 7. Lead Time Analysis
--What is the average lead time (days before booking)?
-
--Does longer lead time increase cancellations?
-## 📊 8. Operational KPIs
--Booking success rate (%)
-
--Cancellation vs confirmed booking ratio
-
--Repeat guest percentage
+These visualizations helped in understanding trends and patterns effectively.
