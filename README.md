@@ -6,9 +6,9 @@ This project focuses on analyzing hotel booking data to understand customer beha
 The goal of this project is to demonstrate how data analysis techniques can be applied to solve real-world business problems in the hospitality industry.
 
 ## Questions(KPIs)
--Analyzed booking distribution across different hotel types
+- Analyzed booking distribution across different hotel types
 
--Calculated cancellation percentages
+- Calculated cancellation percentages
 
 -Compared booking trends between City and Resort hotels
 
@@ -77,3 +77,6 @@ Used various charts and plots such as:
 -Heatmaps
 
 These visualizations helped in understanding trends and patterns effectively.
+## Final Conclusion
+
+The analysis shows that factors like pricing, seasonality, and customer segments play a major role in hotel booking cancellations. These insights can help businesses optimize pricing strategies, reduce cancellations, and improve overall decision-making.
