@@ -10,71 +10,71 @@ The goal of this project is to demonstrate how data analysis techniques can be a
 
 - Calculated cancellation percentages
 
--Compared booking trends between City and Resort hotels
+- Compared booking trends between City and Resort hotels
 
--Studied monthly booking and cancellation patterns
+- Studied monthly booking and cancellation patterns
 
--Analyzed ADR (Average Daily Rate) trends
+- Analyzed ADR (Average Daily Rate) trends
 
--Identified top countries contributing to bookings and cancellations
+- Identified top countries contributing to bookings and cancellations
 
--Explored market segment behavior
+- Explored market segment behavior
 ## Dataset Description
 
 The dataset contains detailed information about hotel bookings, including:
 
--Booking dates
+- Booking dates
 
--Customer type and country
+- Customer type and country
 
--Hotel type (City Hotel / Resort Hotel)
+- Hotel type (City Hotel / Resort Hotel)
 
--Reservation status (Canceled / Not Canceled)
+- Reservation status (Canceled / Not Canceled)
 
--Average Daily Rate (ADR)
+- Average Daily Rate (ADR)
 
--Number of guests (adults, children, babies)
+- Number of guests (adults, children, babies)
 ## Tools & Technologies Used
--Python – Core programming language
+- Python – Core programming language
 
--Pandas – Data cleaning and manipulation
+- Pandas – Data cleaning and manipulation
 
--Matplotlib – Data visualization
+- Matplotlib – Data visualization
 
--Seaborn – Advanced visualization
+- Seaborn – Advanced visualization
 
--Jupyter Notebook – Development environment
+- Jupyter Notebook – Development environment
 ## Data Cleaning & Preprocessing
--Handled missing values by removing or updating columns
+- Handled missing values by removing or updating columns
 
--Dropped irrelevant columns such as company and agent
+- Dropped irrelevant columns such as company and agent
 
--Converted date columns into proper datetime format
+- Converted date columns into proper datetime format
 
--Removed outliers in the ADR column
+- Removed outliers in the ADR column
 
--Checked and ensured data consistency
+- Checked and ensured data consistency
 ## Key Insights
--High cancellation rates observed in certain segments
+- High cancellation rates observed in certain segments
 
--Pricing (ADR) significantly impacts booking cancellations
+- Pricing (ADR) significantly impacts booking cancellations
 
--City Hotels and Resort Hotels show different booking behaviors
+- City Hotels and Resort Hotels show different booking behaviors
 
--Seasonal trends affect booking volume
+- Seasonal trends affect booking volume
 
--Certain customer segments contribute more to cancellations
+- Certain customer segments contribute more to cancellations
 ##Visualizations
 
 Used various charts and plots such as:
 
--Bar charts
+- Bar charts
 
--Count plots
+- Count plots
 
--Line graphs
+- Line graphs
 
--Heatmaps
+- Heatmaps
 
 These visualizations helped in understanding trends and patterns effectively.
 ## Final Conclusion
